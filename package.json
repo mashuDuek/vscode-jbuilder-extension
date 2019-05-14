@@ -1,0 +1,26 @@
+{
+    "name": "jbuilder-highlight",
+    "displayName": "jbuilder highlight",
+    "description": "syntax highlighting for .jbuilder",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "publisher": "MashDuek",
+    "contributes": {
+        "languages": [{
+            "id": "ruby",
+            "aliases": ["ruby", "ruby"],
+            "extensions": [".json.jbuilder"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ruby",
+            "scopeName": "",
+            "path": "./syntaxes/ruby.tmLanguage.json"
+        }]
+    }
+}
