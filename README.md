@@ -1,6 +1,9 @@
 ## Features
 
-This extension adds Ruby highlighting to `.jbuilder` extension
+This extension adds Ruby highlighting to `.jbuilder` extension. 
+
+<img src="./images/sample.png">
+
 
 ## Extension Settings
 
