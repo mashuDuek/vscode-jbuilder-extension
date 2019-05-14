@@ -2,8 +2,7 @@
 
 This extension adds Ruby highlighting to `.jbuilder` extension. 
 
-<img src="./images/sample.png">
-
+<img src="https://res.cloudinary.com/dbojiawfh/image/upload/v1557865757/sample_svzu9b.png">
 
 ## Extension Settings
 
