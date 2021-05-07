@@ -11,7 +11,7 @@
         "Programming Languages"
     ],
     "publisher": "MashDuek",
-    "repository": "https://mashuduek@github.com/mashuDuek/vscode-jbuilder-extension",
+    "repository": "https://github.com/mashuDuek/vscode-jbuilder-extension",
     "contributes": {
         "languages": [{
             "id": "ruby",
