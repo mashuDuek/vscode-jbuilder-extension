@@ -1,6 +1,6 @@
 ## Features
 
-This extension adds Ruby highlighting to `.jbuilder` extension. 
+This extension adds Ruby highlighting to `.jbuilder` extension.
 
 <img src="https://res.cloudinary.com/dbojiawfh/image/upload/v1557865757/sample_svzu9b.png">
 
@@ -8,7 +8,8 @@ This extension adds Ruby highlighting to `.jbuilder` extension.
 
 No extra configuration required.
 
-## Contributing 
+## Contributing
 
-Open an issue, detailing what you'd like to see happen. Be as thorough as possible. 
-Open a Pull Request to merge `yourBranch` into `master`.
+Open an issue, detailing what you'd like to see happen. Be as thorough as possible.
+
+Or directly open a Pull Request to merge `yourBranch` into `master`.
