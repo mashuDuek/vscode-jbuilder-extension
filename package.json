@@ -2,7 +2,7 @@
     "name": "jbuilder-highlight",
     "displayName": "jbuilder highlight",
     "description": "syntax highlighting for .jbuilder",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icon": "images/jbuilder_x_dock_icon.png",
     "engines": {
         "vscode": "^1.33.0"
