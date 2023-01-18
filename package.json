@@ -2,7 +2,7 @@
     "name": "jbuilder-highlight",
     "displayName": "jbuilder highlight",
     "description": "syntax highlighting for .jbuilder",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "icon": "images/jbuilder_x_dock_icon.png",
     "engines": {
         "vscode": "^1.33.0"
@@ -18,11 +18,6 @@
             "aliases": ["ruby", "ruby"],
             "extensions": [".json.jbuilder"],
             "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "ruby",
-            "scopeName": "",
-            "path": "./syntaxes/ruby.tmLanguage.json"
         }]
     }
 }
